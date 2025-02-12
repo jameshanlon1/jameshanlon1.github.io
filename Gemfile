@@ -1,10 +1,7 @@
 source "https://rubygems.org"
 
-# Use the GitHub Pages gem for GitHub Pages hosting
+# Use GitHub Pages gem for GitHub Pages hosting
 gem "github-pages", group: :jekyll_plugins
-
-# If you still want to use the Alembic theme, include it here
-gem "alembic-jekyll-theme"
 
 # Plugin for feed generation
 group :jekyll_plugins do
