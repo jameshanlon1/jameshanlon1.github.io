@@ -30,8 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
+theme: alembic-jekyll-themeplugins
   - jekyll-feed
 
 # Exclude from processing.
