@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: alembic-jekyll-themeplugins
+remote_theme: daviddarnes/alembic
   - jekyll-feed
 
 # Exclude from processing.
