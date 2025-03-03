@@ -10,7 +10,8 @@ twitter_username: jameshanlon
 github_username: jameshanlon1
 
 # **Use Alembic Theme**
-remote_theme: daviddarnes/alembic
+theme: alembic
+
 
 # **Required plugins for GitHub Pages**
 plugins:
