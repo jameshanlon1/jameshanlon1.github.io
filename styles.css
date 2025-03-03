@@ -93,11 +93,11 @@ section {
 }
 
 .profile-image {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 5px solid #ddd;
+    width: 100px; /* Smaller size */
+    height: 100px; /* Keeping the aspect ratio square */
+    border-radius: 10%; /* Slightly rounded corners */
+    object-fit: cover; /* Ensure the image is cropped properly */
+    border: 3px solid #ddd; /* Adding a subtle border */
 }
 
 .bio {
